@@ -17,25 +17,4 @@ EMBEDDING_FILE = "./data/glove.6B.300d.txt"
 # Sample rock artists (this was based on a random top 20 I found online)
 # Artists are confirmed to exist in the dataset
 ARTISTS = [
-    "*",
-    """ "The Beatles",
-    "Rolling Stones",
-    "Pink Floyd",
-    "Queen",
-    "Who",  # The Who
-    "Jimi Hendrix",
-    "Doors",  # The Doors
-    "Nirvana",
-    "Eagles",
-    "Aerosmith",
-    "Creedence Clearwater Revival",
-    "Guns N' Roses",
-    "Black Sabbath",
-    "U2",
-    "David Bowie",
-    "Beach Boys",
-    "Van Halen",
-    "Bob Dylan",
-    "Eric Clapton",
-    "Red Hot Chili Peppers", """
 ]
