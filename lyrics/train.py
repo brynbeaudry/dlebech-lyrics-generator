@@ -15,8 +15,8 @@ from . import config, embedding, util
 
 def prepare_data(
     songs,
-    transform_words=False,
-    use_full_sentences=False,
+    transform_words=True,
+    use_full_sentences=True,
     use_strings=False,
     num_lines_to_include=config.NUM_LINES_TO_INCLUDE,
     max_repeats=config.MAX_REPEATS,
